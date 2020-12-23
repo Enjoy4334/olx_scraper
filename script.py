@@ -1,11 +1,10 @@
 from selenium import webdriver
 import fake_useragent
 
-#
 #Using Selenium in the background
 options = webdriver.ChromeOptions()
 options.add_argument("headless")
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(chrome_options=options)
 
 
 #Selenium detection bypass
