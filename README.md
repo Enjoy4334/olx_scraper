@@ -1,7 +1,7 @@
 
 # Olx Scraper
 
-> **Real estate phone number scraper from [olx.ua](https://www.olx.ua/)** 
+> **A simple web crawler to get data from [OLX](https://www.olx.ua/) real estate section. it is written in Python** 
 
 ### Features
 
