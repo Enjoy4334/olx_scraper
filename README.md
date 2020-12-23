@@ -1,7 +1,7 @@
 
 # Olx Scraper
 
-> **Scraping [olx.ua](https://www.olx.ua/)  numbers phone** 
+> **Scraping [olx.ua](https://www.olx.ua/)  reale estate numbers phone** 
 
 ### Features
 
