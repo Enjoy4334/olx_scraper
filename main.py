@@ -4,6 +4,8 @@ import requests
 import time
 import csv
 
+# This code was tested in Ukrainian olx only
+
 
 def get_url(url):
     r = requests.get(url, headers=headers, timeout=5)
